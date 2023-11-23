@@ -1,3 +1,4 @@
 # kubernetes
 Kubernetes playground
-# https://github.com/justmeandopensource/kubernetes
+# to set up h8s 
+https://github.com/justmeandopensource/kubernetes
